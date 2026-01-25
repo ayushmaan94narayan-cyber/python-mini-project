@@ -1,0 +1,1 @@
+We need a Software Engineer to design scalable applications. The role involves Java, Python, algorithms, data structures, and working with APIs. Familiarity with version control using Git and cloud environments like Azure is preferred.

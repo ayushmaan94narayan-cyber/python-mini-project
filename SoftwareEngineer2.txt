@@ -1,0 +1,1 @@
+Looking for a Cloud Engineer with expertise in AWS, Docker, Kubernetes, CI/CD pipelines, and automation using Python or Bash scripting. Security best practices and monitoring tools are also essential.
