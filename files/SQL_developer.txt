@@ -1,1 +1,0 @@
-We are seeking a Database Administrator with strong SQL and database design skills. Experience with Oracle, MySQL, and performance tuning is necessary. The candidate must also understand backup and recovery processes.
